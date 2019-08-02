@@ -1,5 +1,7 @@
 function buildMetadata(sample) {
 
+  
+
   // @TODO: Complete the following function that builds the metadata panel
 
   // Use `d3.json` to fetch the metadata for a sample
@@ -13,6 +15,7 @@ function buildMetadata(sample) {
 
     // BONUS: Build the Gauge Chart
     // buildGauge(data.WFREQ);
+    
 }
 
 function buildCharts(sample) {
