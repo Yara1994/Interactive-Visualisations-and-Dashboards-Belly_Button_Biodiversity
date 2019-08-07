@@ -8,9 +8,9 @@ In this assignment, we built an interactive dashboard to explore the [Belly Butt
 
 We used Plotly.js to build interactive charts for our dashboard.
 
-## We had to:
+### We had to:
 
-## Create a PIE chart that uses data from your samples route (`/samples/<sample>`) to display the top 10 samples.
+#### Create a PIE chart that uses data from your samples route (`/samples/<sample>`) to display the top 10 samples.
 
   * Use `sample_values` as the values for the PIE chart.
 
@@ -20,7 +20,7 @@ We used Plotly.js to build interactive charts for our dashboard.
 
 
 
-## Create a Bubble Chart that uses data from your samples route (`/samples/<sample>`) to display each sample.
+#### Create a Bubble Chart that uses data from your samples route (`/samples/<sample>`) to display each sample.
 
   * Use `otu_ids` for the x values.
 
@@ -34,7 +34,7 @@ We used Plotly.js to build interactive charts for our dashboard.
 
 
 
-## Display the sample metadata from the route `/metadata/<sample>`
+#### Display the sample metadata from the route `/metadata/<sample>`
 
   * Display each key/value pair from the metadata JSON object somewhere on the page.
 
